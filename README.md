@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amansingh5ba2004&label=Profile%20views&color=0e75b6&style=flat" alt="amansingh5ba2004" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amansingh5ba2004" alt="amansingh5ba2004" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/amansin81238414" target="blank"><img src="https://img.shields.io/twitter/follow/amansin81238414?logo=twitter&style=for-the-badge" alt="amansin81238414" /></a> </p>
 
 - 🌱 I’m currently learning **Next.js • TypeScript • Tailwind CSS • Node.js • Performance Optimization**
+
+- 📫 How to reach me **amansingh5ba2004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

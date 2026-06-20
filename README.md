@@ -39,7 +39,7 @@
 
 ```javascript
 const aman = {
-    title: "Frontend Developer & UI/UX Enthusiast",
+    title: "Full Stack Developer and coding enthusiast",
     location: "India 🇮🇳",
     portfolio: "https://portfolio-sage-tau-53.vercel.app/",
     code: ["JavaScript", "TypeScript", "C++"],
